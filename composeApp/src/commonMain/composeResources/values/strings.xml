@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">Flow Diary</string>
+
+    <string name="common_delete">Delete</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_leave">Leave</string>
+    <string name="common_confirm">Confirm</string>
+    <string name="common_save">Save</string>
+
+    <string name="home_appbar_title">Flow Diary</string>
+    <string name="home_empty_title">No Entries</string>
+    <string name="home_empty_subtitle">Start recording your first Echo </string>
+
+    <string name="chip_all_mood">All Mood</string>
+    <string name="chip_all_topics">All Topics</string>
+
+    <string name="mood_excited">Excited</string>
+    <string name="mood_peaceful">Peaceful</string>
+    <string name="mood_neutral">Neutral</string>
+    <string name="mood_sad">Sad</string>
+    <string name="mood_stressed">Stressed</string>
+
+    <string name="record_bottom_sheet_recording">Recording your memories...</string>
+
+    <string name="list_item_show_more">... Show More</string>
+    <string name="list_item_show_less"> Show Less</string>
+
+    <string name="new_record_appbar_title">New Entry</string>
+    <string name="new_record_add_title">Add Title...</string>
+    <string name="new_record_add_topic">Topic</string>
+    <string name="new_record_add_description">Add Description...</string>
+    <string name="new_record_bottom_sheet_how_doing">How are you doing?</string>
+    <string name="new_record_leave_title">Discard Audio Entry?</string>
+    <string name="new_record_leave_subtitle">You will lose your audio entry. If you're fine with that, press 'Leave'.</string>
+
+
+    <string name="settings_appbar_title">Settings</string>
+    <string name="settings_my_mood">My Mood</string>
+    <string name="settings_my_mood_subtitle">Select default mood to apply to all new entries</string>
+    <string name="settings_my_topics">My Topics</string>
+    <string name="settings_my_topics_subtitle">Select default topics to apply to all new entries</string>
+    <string name="settings_create_new_topic">Create ‘%1$s’</string>
+
+    <string name="permission_denied_title">Permission Denied</string>
+    <string name="permission_denied_message">You cannot record audio journals unless you provide this permission</string>
+    <string name="permission_denied_settings">Go to Settings</string>
+
+    <string name="settings_cd">Settings</string>
+    <string name="settings_add_icon_cd">Create new topic</string>
+    <string name="fab_cd">Floating Action Button to add an entry</string>
+    <string name="chip_clear_selection_cd">Clear selection</string>
+    <string name="close_cd">Stop recording</string>
+    <string name="play_cd">Play recording</string>
+    <string name="pause_cd">Pause recording</string>
+    <string name="hashtag_cd">Hashtag</string>
+    <string name="new_record_title_cd">New Record Screen</string>
+    <string name="new_record_add_icon_cd">Add emotion icon</string>
+    <string name="new_record_add_topic_cd">Add topic icon</string>
+    <string name="new_record_add_description_cd">Add description icon</string>
+</resources>

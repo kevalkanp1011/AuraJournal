@@ -1,0 +1,35 @@
+fast-import crash report:
+    fast-import process: 12840
+    parent process     : 1
+    at 2025-04-01 06:29:53 +0000
+
+fatal: stream ends early
+
+Most Recent Commands Before Crash
+---------------------------------
+  feature done
+* reset refs/heads/main
+
+Active Branch LRU
+-----------------
+    active_branches = 0 cur, 5 max
+
+  pos  clock name
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Inactive Branches
+-----------------
+refs/heads/main:
+  status      : dirty
+  tip commit  : 0000000000000000000000000000000000000000
+  old tree    : 0000000000000000000000000000000000000000
+  cur tree    : 0000000000000000000000000000000000000000
+  commit clock: 0
+  last pack   : 
+
+
+Marks
+-----
+
+-------------------
+END OF CRASH REPORT
