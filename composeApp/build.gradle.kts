@@ -115,7 +115,7 @@ kotlin {
 }
 
 android {
-    namespace = "dev.kevalkanpariya.auraJournal"
+    namespace = "dev.kevalkanpariya.aurajournal"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     buildFeatures {
@@ -123,7 +123,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "dev.kevalkanpariya.auraJournal"
+        applicationId = "dev.kevalkanpariya.aurajournal"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
