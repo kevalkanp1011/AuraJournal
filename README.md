@@ -53,12 +53,10 @@ An AI-powered journaling app built with Kotlin Multiplatform to help users track
    git clone https://github.com/kevalkanp1011/AuraJournal.git  
    ```  
 2. Open in Android Studio or Xcode and build for your target platform.  
-3. Replace Grok AI API keys (if needed) in the network module.  
+3. Replace Grok AI API keys in .properties file.
 
 ---
 
-**Deliverables**: Detailed documentation, screenshots, and videos are available in the [Google Drive Folder](https://drive.google.com/drive/folders/19I_xt7b1kvBwK3bZDksbK2L6I5pPtBTm?usp=sharing).  
+**Deliverables**: videos are available in the [Google Drive Folder](https://drive.google.com/drive/folders/19I_xt7b1kvBwK3bZDksbK2L6I5pPtBTm?usp=sharing).  
 
 ---  
-Built with ❤️ by [Keval Kanpariya](https://github.com/kevalkanp1011).  
-Feedback and contributions welcome!
